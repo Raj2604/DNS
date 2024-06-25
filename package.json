@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bind": "^0.1.7",
+    "dgram": "^1.0.1",
+    "dns-packet": "^5.6.1",
+    "express": "^4.19.2",
+    "node": "^20.15.0",
+    "port": "^0.8.1",
+    "server": "^1.0.39",
+    "udp": "^1.0.0"
+  },
+  "name": "dns",
+  "description": "Domain Name Server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
